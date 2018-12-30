@@ -4,4 +4,4 @@ Todo application
 
 Introduces:
     -   STATE and PROPS manipulations;
-    -   <form> , <input> tags;
+    -   form, input tags;
